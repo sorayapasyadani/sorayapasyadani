@@ -6,7 +6,7 @@
 - 🤔 Open to Opportunities in Various Fields
 - 💬 Lifelong Learner
 - 📫 How to reach me: sorayapasyadh@gmail.com
--->
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sorayapasya) 
