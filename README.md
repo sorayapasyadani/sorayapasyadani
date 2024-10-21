@@ -2,7 +2,6 @@
 
 - 🔭 Software Engineer, sharing about my journey and learnings in tech
 - 🌱 Graduated from Telecommunication Engineering
-- 👯 Passionate about Data Engineering 
 - 🤔 Open to Opportunities in Various Fields
 - 💬 Lifelong Learner
 - 📫 How to reach me: sorayapasyadh@gmail.com
